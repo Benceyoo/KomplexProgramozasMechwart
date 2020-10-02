@@ -11,14 +11,49 @@ li
 {
     
     width:100%;
+    
 }
-nav
+a
 {
-    background-image: url(backgroundlol.jpg)
+    text-decoration: none;
+    color:black;
+    font-size:1.2rem;
+    
 
 }
+a:hover
+{
+    color:red;
+}
+
 div
 {
     text-align: center;
+    border:0.2rem solid;
+    border-radius:15px;
+    position:relative;
+    top:-13px;
+    
+    
+}
+header.page-header {
+    background: no-repeat /cover url(/media/examples/puppy-header-logo.jpg);
+    display: center;
+    text-align:center;
+    align-items: center;
+    color:black;
+    text-shadow: #000 0 0 .2em;
+    border: 0.4rem solid ;
+    background-image: url(border.jpg);
+    background-size:100%;
+    
+
+}
+
+header.page-header > h1 {
+    font: bold calc(1em + 2 * (100vw - 120px) / 100) 'Dancing Script', cursive,
+        fantasy;
+    margin: 2%;
+    
     
 }
