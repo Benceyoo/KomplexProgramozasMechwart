@@ -1,3 +1,8 @@
+h2
+{
+    float:right;
+    font-size:100%;
+}
 .nev
 {
     text-align:center;
@@ -33,6 +38,8 @@ div
     border-radius:15px;
     position:relative;
     top:-13px;
+    background-image:url(halo.jpg);
+    background-size:100%;
     
     
 }
@@ -56,4 +63,12 @@ header.page-header > h1 {
     margin: 2%;
     
     
+}
+button
+{
+    background-image:url(halo.jpg);
+    border-radius:1.2rem;
+    background-size:200%;
+    border-color:black;
+    font-style: italic;
 }
