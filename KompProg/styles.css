@@ -1,7 +1,16 @@
+body
+{
+    size:auto;
+    background-image:url(halo2.jpg);
+}
+
 h2
 {
     float:right;
-    font-size:100%;
+    font-size:110%;
+    color:white;
+    margin-top: 5px;
+    
 }
 .nev
 {
@@ -31,7 +40,7 @@ a:hover
     color:red;
 }
 
-div
+.asd
 {
     text-align: center;
     border:0.2rem solid;
@@ -72,3 +81,37 @@ button
     border-color:black;
     font-style: italic;
 }
+.bal
+{
+    width:90%;
+    float:left;
+    border:0.2rem solid;
+    border-radius:15px;
+    padding:7px;
+    
+    
+}
+.kozep
+{
+    width:70%;
+    vertical-align: top;  
+    
+}
+.jobb
+{
+    width:90%;
+    float:left;
+    border:0.2rem solid;
+    border-radius:15px;
+    padding:7px;
+}
+.asd2
+{
+    font-size:20px;
+}
+.kozep1
+{
+    font-size:21px;
+}
+
+
