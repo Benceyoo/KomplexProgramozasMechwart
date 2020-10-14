@@ -108,10 +108,81 @@ button
 .asd2
 {
     font-size:20px;
+    
 }
 .kozep1
 {
     font-size:21px;
 }
+.celzas
+{
+    text-align: center;
+    font-family: inherit;
+}
+.internetes
+{
+    text-align: center;
+    font-family: inherit;
+}
+.meki
+{
+    
+}
+.forras
+{
+    position:center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+h4
+{
+    font-size:30px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+.bence
+{
+    height:15rem;
+    size:15rem;
+    margin:15px;
+    clear:both;
+}
+h5
+{
+    font-size:25px;
+    
+}
+.bemutatas
+{
+    vertical-align:bottom/middle/top
+}
 
-
+.balint
+{
+    height:15rem;
+    size:15rem;
+    clear:both;
+    margin:15px;
+    
+}
+.adika
+{
+    height:15rem;
+    size:15rem;
+    clear:both;
+    margin:15px;
+}
+.sport
+{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.sport1
+{
+    font-size:25px;
+}
+.tortenelem
+{
+font-size:20px;
+}
+h6
+{
+    font-size:15px;
+}
