@@ -186,3 +186,13 @@ h6
 {
     font-size:15px;
 }
+#ora
+{
+    font-size:21px;
+    border:5px solid;
+    border-radius:15px;
+    width:150px;
+    text-align:center;
+    margin-right:auto;
+    margin-left:auto;
+}
